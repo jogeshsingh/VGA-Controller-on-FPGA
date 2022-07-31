@@ -1,5 +1,18 @@
 # VGA-Controller-on-FPGA
  # Introduction
+  VGA = Video Graphics Array , it is an analaog interface typically used for displaying video colors on display(PC). In this project , VGA includes 640 * 480 pixels    display resolution in which is used fowitches via FPGA through
+
+
+
+
+
+
+
+
+
+
+
+
 
               
   # Horizontal Timing
@@ -56,3 +69,49 @@
             vertical scan lines = H_sync + H_back_porch + H_front_porch + horizontal_video 
             (2+10+33+480) * 0.04 = (15.360 + 1.056 + 0.320 + 0.064 ) ms
              16.8ms                = 16.8 ms 
+
+# RTL View
+![Vga_rtl](https://user-images.githubusercontent.com/98607828/182015111-c091a7c7-4b76-4d77-b091-10e9bf0f2f70.jpg)
+
+
+
+# Implemented & Synthesized Design
+
+![vga_implemente_design](https://user-images.githubusercontent.com/98607828/182015129-5f48db8c-ecec-4b2f-a066-1569078c6910.jpg)
+
+![vga_synthesized_design](https://user-images.githubusercontent.com/98607828/182015148-93909d09-e665-465a-afb8-df3ebed86fac.jpg)
+
+
+
+
+# simulation Results
+
+   Horizontal_Retrace
+   
+![Horizontal_retrace](https://user-images.githubusercontent.com/98607828/182015172-ccd5f825-44eb-44c2-84fb-15962b8a5626.jpg)
+
+   Horizonatal_video_sacn_line
+   
+![horizontal_video_timing](https://user-images.githubusercontent.com/98607828/182015207-e7c37acb-30f7-447e-93bc-faeab56514fd.jpg)
+
+
+ Vertical_Retrace
+ 
+ ![V_synch__retrace](https://user-images.githubusercontent.com/98607828/182015218-49e95800-bbfa-477c-840f-70f216afcb8a.jpg)
+ 
+ 
+ Vertical_video_scan_line
+ 
+ ![vga_vertical_scan_line](https://user-images.githubusercontent.com/98607828/182015233-4d1d44db-b586-461c-9c53-67bf588bc025.jpg)
+
+ 
+ Video_on_timing
+ 
+  ![vid_on_vga](https://user-images.githubusercontent.com/98607828/182015266-fbc6578d-6e25-4973-b925-b985c9a09b65.jpg)
+
+ Video_off_timing
+ 
+![vid_off_bga](https://user-images.githubusercontent.com/98607828/182015274-1c324158-206f-4d0e-804d-cda7271edee9.jpg)
+
+
+
