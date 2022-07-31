@@ -90,7 +90,7 @@
    
 ![Horizontal_retrace](https://user-images.githubusercontent.com/98607828/182015172-ccd5f825-44eb-44c2-84fb-15962b8a5626.jpg)
 
-   Horizonatal_video_sacn_line
+   Horizonatal_video_scan_line
    
 ![horizontal_video_timing](https://user-images.githubusercontent.com/98607828/182015207-e7c37acb-30f7-447e-93bc-faeab56514fd.jpg)
 
@@ -104,7 +104,10 @@
  
  ![vga_vertical_scan_line](https://user-images.githubusercontent.com/98607828/182015233-4d1d44db-b586-461c-9c53-67bf588bc025.jpg)
 
+ Vertical_video_timing
  
+ ![vertical_video_timing](https://user-images.githubusercontent.com/98607828/182015446-ecbd73e4-6427-4bba-81e9-f7a63d3e3303.jpg)
+
  Video_on_timing
  
   ![vid_on_vga](https://user-images.githubusercontent.com/98607828/182015266-fbc6578d-6e25-4973-b925-b985c9a09b65.jpg)
