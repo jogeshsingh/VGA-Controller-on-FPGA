@@ -90,10 +90,13 @@
    
 ![Horizontal_retrace](https://user-images.githubusercontent.com/98607828/182015172-ccd5f825-44eb-44c2-84fb-15962b8a5626.jpg)
 
-   Horizonatal_video_scan_line
+   Horizonatal_video_timing
    
 ![horizontal_video_timing](https://user-images.githubusercontent.com/98607828/182015207-e7c37acb-30f7-447e-93bc-faeab56514fd.jpg)
 
+ Horizontal_video_scan_line
+ 
+ ![Horizontal_scan_line](https://user-images.githubusercontent.com/98607828/182015668-e6986128-3e40-40e2-bfbc-cfcef7504b81.jpg)
 
  Vertical_Retrace
  
