@@ -1,6 +1,6 @@
 # VGA-Controller-on-FPGA
  # Introduction
-  VGA = Video Graphics Array , it is an analaog interface typically used for displaying video colors on display(PC). In this project , VGA includes 640 * 480 pixels    display resolution in which is used fowitches via FPGA through
+  VGA = Video Graphics Array
 
 
 
