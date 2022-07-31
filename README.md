@@ -84,7 +84,7 @@
 
 
 
-# simulation Results
+# Simulation Results
 
    Horizontal_Retrace
    
