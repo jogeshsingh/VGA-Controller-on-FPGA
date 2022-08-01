@@ -1,20 +1,10 @@
 # VGA-Controller-on-FPGA
  # Introduction
-  VGA = Video Graphics Array
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
+  VGA = Video Graphics Array 
+  It is an analog interface ,  15 pin connector and used for displaying different pattern of video or image signals . 
+  
+  The nexys4 Artix-7 FPGA Board uses 14 signals ( 4 bit each{Red , Green ,Blue} , Hsync , Vsync } to create a Graphics array of individual pixels supporting 640*480  resolution .This Project is basically a controller that is used for displaying various pattern of display colors using 12 switches {red , green , blue} driving from FPGA vga port to PC display.
+  
   # Horizontal Timing
                                                  One_Horizontal_scan 
                                                       (800 pixels)
